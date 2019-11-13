@@ -1,0 +1,4 @@
+decorator==4.4.1
+scapy==2.4.3
+six==1.13.0
+validators==0.14.0
